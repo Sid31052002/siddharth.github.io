@@ -1,0 +1,19 @@
+.education-box {
+    border: 2px solid #ddd;  /* Border color and thickness */
+    padding: 20px;           /* Inner spacing */
+    border-radius: 10px;     /* Rounded corners */
+    margin-top: 20px;        /* Space above the box */
+    background-color: #f9f9f9; /* Background color */
+  }
+  
+  .education-box div {
+    margin-bottom: 15px;     /* Space between education items */
+  }
+  
+  .education-box h3, 
+  .education-box h4, 
+  .education-box h5, 
+  .education-box p {
+    margin: 5px 0;           /* Margin adjustments for elements */
+  }
+  
